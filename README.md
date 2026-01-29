@@ -4,8 +4,8 @@ This repository contains my solutions to Data Structures & Algorithms problems,
 organized by patterns for interview preparation.
 
 ## Patterns Covered
-- Sliding Window
-- 2-pointerAlgorithm
+- SlidingWindow
+- Twopointer
 - Fast&SlowPointer
 - Binary Search
 - StacksnQueue
